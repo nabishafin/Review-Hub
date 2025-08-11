@@ -14,7 +14,7 @@ ReviewHub is a simple React application that allows users to submit and view rev
 
 ## Setup Instructions
 1. Clone the repository:
-
+https://github.com/nabishafin/Review-Hub
 
 css
 Copy
@@ -37,7 +37,7 @@ npm start
 pgsql
 Copy
 Edit
-5. Open http://localhost:3000 in your browser to use the app.
+5. Open http://localhost:5173
 
 ## Time Taken
 Approximately 3-4 hours.
